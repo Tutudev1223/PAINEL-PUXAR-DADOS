@@ -1,2 +1,0 @@
-((ClipboardManager) getSystemService(getApplicationContext().CLIPBOARD_SERVICE)).setPrimaryClip(ClipData.newPlainText("clipboard", "NOME: GABRIEL GOULARTE DO CARMO\n\nCPF: 16962120737\n\nSEXO: M - MASCULINO\n\nNASCIMENTO:\n\n02/12/1998"));
-((ClipboardManager) getSystemService(getApplicationContext().CLIPBOARD_SERVICE)).setPrimaryClip(ClipData.newPlainText("clipboard", "NOME: VICTOR LUDWIG\n\nROSSI\n\nCPF: 42284894860\n\nSEXO: M - MASCULINO\n\nNASCIMENTO:\n\n22/04/2008"));
